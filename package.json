@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cssnano": "^5.1.13"
+  }
+}
